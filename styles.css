@@ -1,0 +1,32 @@
+
+:root{
+  --rtc-primary-color: #ebb762ff
+  --rtc-background-color: #f9f3ebff
+  --rtc-teritiary-color: #263238ff
+}
+li{
+  list-style: none;
+}
+body{
+  background-color: #f9f3ebff;
+}
+header{
+  display: flex;
+  padding: 20px;
+}
+header>img{
+  width: 150px;
+  height: 125px;
+}
+header>nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+.nav-list{
+  display: flex;
+  flex-grow: 1;
+  justify-content: flex-end;
+  gap: 70px;
+}
