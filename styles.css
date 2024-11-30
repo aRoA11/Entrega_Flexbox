@@ -103,11 +103,6 @@ footer {
 .first-child {
   font-weight: bold;
 }
-
-/* .nav-list {
-  display: flex;
-  gap: 20px;
-} */
 .menu-icon {
   display: none;
   width: 30px;
